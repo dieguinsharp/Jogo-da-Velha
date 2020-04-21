@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe.config
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.exe
+C:\Users\Diego\source\repos\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.pdb
